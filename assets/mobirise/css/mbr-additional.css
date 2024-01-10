@@ -1723,15 +1723,15 @@ img {
 .cid-tN13m4QpLG .mbr-section-btn {
   color: #f9a600;
 }
-.cid-u0fYFSjHMW {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+.cid-u0UUYAqTMD {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
   background-color: #f9a600;
 }
-.cid-u0fYFSjHMW .mbr-fallback-image.disabled {
+.cid-u0UUYAqTMD .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-u0fYFSjHMW .mbr-fallback-image {
+.cid-u0UUYAqTMD .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1740,103 +1740,103 @@ img {
   position: absolute;
   top: 0;
 }
-.cid-u0fYFSjHMW .container-fluid {
+.cid-u0UUYAqTMD .container-fluid {
   padding: 0 48px;
 }
 @media (max-width: 992px) {
-  .cid-u0fYFSjHMW .container-fluid {
+  .cid-u0UUYAqTMD .container-fluid {
     padding: 0 34px;
   }
 }
 @media (max-width: 768px) {
-  .cid-u0fYFSjHMW .container-fluid {
+  .cid-u0UUYAqTMD .container-fluid {
     padding: 0;
   }
 }
 @media (max-width: 992px) {
-  .cid-u0fYFSjHMW .container {
+  .cid-u0UUYAqTMD .container {
     padding: 0 50px;
   }
 }
 @media (max-width: 768px) {
-  .cid-u0fYFSjHMW .container {
+  .cid-u0UUYAqTMD .container {
     padding: 0 16px;
   }
 }
-.cid-u0fYFSjHMW .row {
+.cid-u0UUYAqTMD .row {
   justify-content: center;
   margin: 0;
 }
-.cid-u0fYFSjHMW .item {
+.cid-u0UUYAqTMD .item {
   margin-bottom: 64px;
   padding: 0 32px;
 }
 @media (max-width: 992px) {
-  .cid-u0fYFSjHMW .item {
+  .cid-u0UUYAqTMD .item {
     padding: 0 16px;
     margin-bottom: 32px;
   }
 }
-.cid-u0fYFSjHMW .item a:focus .item-wrapper .item-img .image-wrap img,
-.cid-u0fYFSjHMW .item a:hover .item-wrapper .item-img .image-wrap img {
+.cid-u0UUYAqTMD .item a:focus .item-wrapper .item-img .image-wrap img,
+.cid-u0UUYAqTMD .item a:hover .item-wrapper .item-img .image-wrap img {
   transform: scale(1.05);
 }
-.cid-u0fYFSjHMW .item a:focus .item-wrapper .item-content .card-title,
-.cid-u0fYFSjHMW .item a:hover .item-wrapper .item-content .card-title {
+.cid-u0UUYAqTMD .item a:focus .item-wrapper .item-content .card-title,
+.cid-u0UUYAqTMD .item a:hover .item-wrapper .item-content .card-title {
   text-decoration-color: #000000;
 }
-.cid-u0fYFSjHMW .item a .item-wrapper .item-img {
+.cid-u0UUYAqTMD .item a .item-wrapper .item-img {
   border: 1px solid #000000;
   border-radius: 1rem;
   padding: 10px;
   margin-bottom: 16px;
 }
-.cid-u0fYFSjHMW .item a .item-wrapper .item-img .image-wrap {
+.cid-u0UUYAqTMD .item a .item-wrapper .item-img .image-wrap {
   overflow: hidden;
   border-radius: 1rem;
 }
-.cid-u0fYFSjHMW .item a .item-wrapper .item-img .image-wrap img {
+.cid-u0UUYAqTMD .item a .item-wrapper .item-img .image-wrap img {
   height: 500px;
   object-fit: cover;
   border-radius: 0 !important;
   transition: all 0.3s ease-in-out;
 }
 @media (max-width: 992px) {
-  .cid-u0fYFSjHMW .item a .item-wrapper .item-img .image-wrap img {
+  .cid-u0UUYAqTMD .item a .item-wrapper .item-img .image-wrap img {
     height: 350px;
   }
 }
-.cid-u0fYFSjHMW .item a .item-wrapper .item-content .date-wrapper {
+.cid-u0UUYAqTMD .item a .item-wrapper .item-content .date-wrapper {
   margin-bottom: 10px;
 }
-.cid-u0fYFSjHMW .item a .item-wrapper .item-content .date-wrapper .date-wrap {
+.cid-u0UUYAqTMD .item a .item-wrapper .item-content .date-wrapper .date-wrap {
   display: inline-flex;
   align-items: center;
   flex-wrap: wrap;
 }
-.cid-u0fYFSjHMW .item a .item-wrapper .item-content .date-wrapper .date-wrap .mbr-tag {
+.cid-u0UUYAqTMD .item a .item-wrapper .item-content .date-wrapper .date-wrap .mbr-tag {
   margin-bottom: 0;
   padding: 4px 12px;
   border-radius: 3rem;
   border: 1px solid #000000;
   margin-right: 16px;
 }
-.cid-u0fYFSjHMW .item a .item-wrapper .item-content .date-wrapper .date-wrap .mbr-date {
+.cid-u0UUYAqTMD .item a .item-wrapper .item-content .date-wrapper .date-wrap .mbr-date {
   margin-bottom: 0;
 }
-.cid-u0fYFSjHMW .item a .item-wrapper .item-content .card-title {
+.cid-u0UUYAqTMD .item a .item-wrapper .item-content .card-title {
   margin-bottom: 0;
   transition: all 0.3s ease-in-out;
   text-decoration: underline;
   text-decoration-color: transparent;
 }
-.cid-u0fYFSjHMW .mbr-tag {
+.cid-u0UUYAqTMD .mbr-tag {
   color: #000000;
 }
-.cid-u0fYFSjHMW .mbr-date {
+.cid-u0UUYAqTMD .mbr-date {
   color: #000000;
 }
-.cid-u0fYFSjHMW .card-title {
+.cid-u0UUYAqTMD .card-title {
   color: #000000;
 }
 .cid-u0IXoEtal1 {
